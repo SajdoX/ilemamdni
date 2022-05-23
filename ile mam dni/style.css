@@ -1,0 +1,23 @@
+body {
+    background-color: goldenrod;
+}
+
+#data {
+    text-align: center;
+}
+
+#getdate {
+    text-align: center;
+}
+
+#roznica {
+    text-align: center; 
+}
+
+#bt {
+    background-color: rgb(168, 128, 24);
+}
+
+#date {
+    background-color: rgb(168, 128, 24);
+}
